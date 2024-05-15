@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -o CMakeFiles\\fluid-sim.dir\\lib\\glad\\gl.c.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\lib\\glad\\gl.c",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\lib\\glad\\gl.c",
+  "output": "CMakeFiles\\fluid-sim.dir\\lib\\glad\\gl.c.obj"
+},
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -std=gnu++17 -o CMakeFiles\\fluid-sim.dir\\src\\fluid-sim.cpp.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\fluid-sim.cpp",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\fluid-sim.cpp",
+  "output": "CMakeFiles\\fluid-sim.dir\\src\\fluid-sim.cpp.obj"
+},
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -std=gnu++17 -o CMakeFiles\\fluid-sim.dir\\src\\kernels.cpp.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\kernels.cpp",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\kernels.cpp",
+  "output": "CMakeFiles\\fluid-sim.dir\\src\\kernels.cpp.obj"
+},
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -std=gnu++17 -o CMakeFiles\\fluid-sim.dir\\src\\main.cpp.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\main.cpp",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\main.cpp",
+  "output": "CMakeFiles\\fluid-sim.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -std=gnu++17 -o CMakeFiles\\fluid-sim.dir\\src\\shader-file.cpp.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\shader-file.cpp",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\shader-file.cpp",
+  "output": "CMakeFiles\\fluid-sim.dir\\src\\shader-file.cpp.obj"
+},
+{
+  "directory": "C:/Users/traut/Desktop/GithubRepos/fluid-sim/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\clang++.exe -IC:/Users/traut/Desktop/GithubRepos/fluid-sim/include -g -std=gnu++17 -o CMakeFiles\\fluid-sim.dir\\src\\spatial.cpp.obj -c C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\spatial.cpp",
+  "file": "C:\\Users\\traut\\Desktop\\GithubRepos\\fluid-sim\\src\\spatial.cpp",
+  "output": "CMakeFiles\\fluid-sim.dir\\src\\spatial.cpp.obj"
+}
+]
