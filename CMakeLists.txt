@@ -23,7 +23,7 @@ target_link_libraries(fluid-sim
 
 set_property(TARGET fluid-sim PROPERTY CXX_STANDARD 17)
 
-target_include_directories(fluid-sim PUBLIC ${CMAKE_SOURCE_DIR}/include)
+target_include_directories(fluid-sim PUBLIC ${CMAKE_SOURCE_DIR}/include ${CMAKE_SOURCE_DIR}/include/imgui)
 
 add_custom_target(copy_resources ALL
         COMMAND ${CMAKE_COMMAND} -E copy_directory

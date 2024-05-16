@@ -1,12 +1,16 @@
 #version 430 core
 
 layout (location = 0) in vec3 aPos;
-layout (location = 1) in vec2 aTexCoords;
 
-out vec2 TexCoords;
+uniform mat4 ortho;
+uniform mat4 view;
+
+layout (binding = 1, std430) readonly buffer ssbo1 
+{
+    mat4 offsets[];
+};
 
 void main()
 {
-    gl_Position = vec4(aPos, 1.0);
-    TexCoords = aTexCoords;
+    gl_Position = ortho * view * offsets[gl_InstanceID] * vec4(aPos , 1.0);
 }

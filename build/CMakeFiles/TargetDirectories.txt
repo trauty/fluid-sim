@@ -1,4 +1,0 @@
-C:/Users/traut/Desktop/GithubRepos/fluid-sim/build/CMakeFiles/fluid-sim.dir
-C:/Users/traut/Desktop/GithubRepos/fluid-sim/build/CMakeFiles/copy_resources.dir
-C:/Users/traut/Desktop/GithubRepos/fluid-sim/build/CMakeFiles/edit_cache.dir
-C:/Users/traut/Desktop/GithubRepos/fluid-sim/build/CMakeFiles/rebuild_cache.dir
